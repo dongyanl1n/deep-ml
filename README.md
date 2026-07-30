@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**14** solved · 14 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-07-26 | [solution](problems/0087-adam-optimizer) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-07-28 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-07-26 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-07-30 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-07-29 | [solution](problems/0190-overlapping-max-pooling) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-07-29 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-24 | [solution](problems/0025-single-neuron-with-backpropagation) |
