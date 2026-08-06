@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 21 problems · 0 labs · 0 math
+**24** solved · 24 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-07-26 | [solution](problems/0024-single-neuron) |
 | [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-08-02 | [solution](problems/0906-sinusoidal-positional-encoding) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-07-26 | [solution](problems/0087-adam-optimizer) |
+| [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-08-06 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-08-03 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-08-02 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-07-28 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
@@ -29,8 +30,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-08-01 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-08-01 | [solution](problems/0017-k-means-clustering) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-07-29 | [solution](problems/0190-overlapping-max-pooling) |
+| [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-08-06 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-07-29 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-24 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-08-06 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-08-02 | [solution](problems/0020-decision-tree-learning) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-08-02 | [solution](problems/0094-implement-multi-head-attention) |
 

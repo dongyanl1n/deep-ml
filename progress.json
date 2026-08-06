@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:09:49.667Z",
+  "generated_at": "2026-09-26T03:09:51.296Z",
   "items": {
     "problem:883": {
       "kind": "problem",
@@ -273,6 +273,45 @@
       "last_pushed_at": "2026-08-03T15:41:32.511Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:380": {
+      "kind": "problem",
+      "id": "380",
+      "title": "Byte Pair Encoding (BPE) Tokenizer",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/380",
+      "path": "problems/0380-byte-pair-encoding-bpe-tokenizer",
+      "first_solved_at": "2026-08-06T02:33:37.838Z",
+      "last_pushed_at": "2026-08-06T02:33:37.838Z",
+      "language": "python",
+      "lines": 54
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2026-08-06T03:11:59.220Z",
+      "last_pushed_at": "2026-08-06T03:11:59.220Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:918": {
+      "kind": "problem",
+      "id": "918",
+      "title": "Build a Tiny GPT",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/918",
+      "path": "problems/0918-build-a-tiny-gpt",
+      "first_solved_at": "2026-08-06T14:53:04.636Z",
+      "last_pushed_at": "2026-08-06T14:53:04.636Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
