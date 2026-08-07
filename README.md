@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 24 problems · 0 labs · 0 math
+**25** solved · 25 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-08-01 | [solution](problems/0017-k-means-clustering) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-07-29 | [solution](problems/0190-overlapping-max-pooling) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-08-06 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-08-07 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-07-29 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-24 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-08-06 | [solution](problems/0918-build-a-tiny-gpt) |

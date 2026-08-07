@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:09:51.296Z",
+  "generated_at": "2026-09-26T03:09:52.882Z",
   "items": {
     "problem:883": {
       "kind": "problem",
@@ -312,6 +312,19 @@
       "last_pushed_at": "2026-08-06T14:53:04.636Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:381": {
+      "kind": "problem",
+      "id": "381",
+      "title": "Rotary Positional Embeddings (RoPE)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/381",
+      "path": "problems/0381-rotary-positional-embeddings-rope",
+      "first_solved_at": "2026-08-07T17:06:07.342Z",
+      "last_pushed_at": "2026-08-07T17:06:07.342Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
