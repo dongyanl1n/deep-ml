@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:09:52.882Z",
+  "generated_at": "2026-09-26T03:09:54.484Z",
   "items": {
     "problem:883": {
       "kind": "problem",
@@ -325,6 +325,45 @@
       "last_pushed_at": "2026-08-07T17:06:07.342Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-08-09T17:07:44.521Z",
+      "last_pushed_at": "2026-08-09T17:07:44.521Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:376": {
+      "kind": "problem",
+      "id": "376",
+      "title": "KV Cache for Efficient Autoregressive Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/376",
+      "path": "problems/0376-kv-cache-for-efficient-autoregressive-attention",
+      "first_solved_at": "2026-08-09T20:29:38.954Z",
+      "last_pushed_at": "2026-08-09T20:29:38.954Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:391": {
+      "kind": "problem",
+      "id": "391",
+      "title": "Implement Grouped Query Attention (GQA)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/391",
+      "path": "problems/0391-implement-grouped-query-attention-gqa",
+      "first_solved_at": "2026-08-09T22:32:17.702Z",
+      "last_pushed_at": "2026-08-09T22:32:17.702Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
