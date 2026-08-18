@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:09:54.484Z",
+  "generated_at": "2026-09-26T03:09:56.004Z",
   "items": {
     "problem:883": {
       "kind": "problem",
@@ -364,6 +364,19 @@
       "last_pushed_at": "2026-08-09T22:32:17.702Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:233": {
+      "kind": "problem",
+      "id": "233",
+      "title": "Inference Head Pruning for Transformers",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/233",
+      "path": "problems/0233-inference-head-pruning-for-transformers",
+      "first_solved_at": "2026-08-18T23:53:39.650Z",
+      "last_pushed_at": "2026-08-18T23:53:39.650Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }

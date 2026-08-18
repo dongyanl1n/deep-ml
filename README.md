@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 28 problems · 0 labs · 0 math
+**29** solved · 29 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-07-30 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-08-09 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-08-01 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [Inference Head Pruning for Transformers](https://www.deep-ml.com/problems/233) | medium | 2026-08-18 | [solution](problems/0233-inference-head-pruning-for-transformers) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-08-01 | [solution](problems/0017-k-means-clustering) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-08-09 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-07-29 | [solution](problems/0190-overlapping-max-pooling) |
