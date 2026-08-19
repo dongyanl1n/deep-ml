@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:09:56.004Z",
+  "generated_at": "2026-09-26T03:09:57.525Z",
   "items": {
     "problem:883": {
       "kind": "problem",
@@ -377,6 +377,32 @@
       "last_pushed_at": "2026-08-18T23:53:39.650Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1019": {
+      "kind": "problem",
+      "id": "1019",
+      "title": "Estimate KV-Cache Memory for MHA vs Linear Attention",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1019",
+      "path": "problems/1019-estimate-kv-cache-memory-for-mha-vs-linear-attention",
+      "first_solved_at": "2026-08-19T00:30:38.094Z",
+      "last_pushed_at": "2026-08-19T00:30:38.094Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:1017": {
+      "kind": "problem",
+      "id": "1017",
+      "title": "Implement Gated DeltaNet Linear Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1017",
+      "path": "problems/1017-implement-gated-deltanet-linear-attention",
+      "first_solved_at": "2026-08-19T01:24:32.113Z",
+      "last_pushed_at": "2026-08-19T01:24:32.113Z",
+      "language": "python",
+      "lines": 56
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 29 problems · 0 labs · 0 math
+**31** solved · 31 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-07-26 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-07-25 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
+| [Estimate KV-Cache Memory for MHA vs Linear Attention](https://www.deep-ml.com/problems/1019) | easy | 2026-08-19 | [solution](problems/1019-estimate-kv-cache-memory-for-mha-vs-linear-attention) |
 | [Implement a Linear Layer Forward Pass in Tinygrad](https://www.deep-ml.com/problems/892) | easy | 2026-07-22 | [solution](problems/0892-implement-a-linear-layer-forward-pass-in-tinygrad) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-07-22 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-07-28 | [solution](problems/0901-implement-dropout-from-scratch) |
@@ -40,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-24 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-08-06 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-08-02 | [solution](problems/0020-decision-tree-learning) |
+| [Implement Gated DeltaNet Linear Attention](https://www.deep-ml.com/problems/1017) | hard | 2026-08-19 | [solution](problems/1017-implement-gated-deltanet-linear-attention) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-08-02 | [solution](problems/0094-implement-multi-head-attention) |
 
 ---
