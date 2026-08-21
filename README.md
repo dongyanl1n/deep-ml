@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 31 problems · 0 labs · 0 math
+**32** solved · 32 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-07-26 | [solution](problems/0024-single-neuron) |
 | [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-08-02 | [solution](problems/0906-sinusoidal-positional-encoding) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-07-26 | [solution](problems/0087-adam-optimizer) |
+| [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-08-21 | [solution](problems/0234-block-wise-fp8-quantization) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-08-06 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-08-03 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-08-02 | [solution](problems/0905-implement-a-transformer-encoder-block) |
