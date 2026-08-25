@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 32 problems · 0 labs · 0 math
+**33** solved · 33 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-08-21 | [solution](problems/0234-block-wise-fp8-quantization) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-08-06 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-08-03 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
+| [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-08-25 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-08-02 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-07-28 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-07-26 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
