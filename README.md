@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 33 problems · 0 labs · 0 math
+**35** solved · 35 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Linear Layer Forward Pass in Tinygrad](https://www.deep-ml.com/problems/892) | easy | 2026-07-22 | [solution](problems/0892-implement-a-linear-layer-forward-pass-in-tinygrad) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-07-22 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-07-28 | [solution](problems/0901-implement-dropout-from-scratch) |
+| [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-21 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-07-26 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-07-26 | [solution](problems/0024-single-neuron) |
 | [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-08-02 | [solution](problems/0906-sinusoidal-positional-encoding) |
@@ -45,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-08-02 | [solution](problems/0020-decision-tree-learning) |
 | [Implement Gated DeltaNet Linear Attention](https://www.deep-ml.com/problems/1017) | hard | 2026-08-19 | [solution](problems/1017-implement-gated-deltanet-linear-attention) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-08-02 | [solution](problems/0094-implement-multi-head-attention) |
+| [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-21 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 
 ---
 
