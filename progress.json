@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:10:01.990Z",
+  "generated_at": "2026-09-26T03:10:03.581Z",
   "items": {
     "problem:883": {
       "kind": "problem",
@@ -455,6 +455,84 @@
       "last_pushed_at": "2026-09-21T23:01:36.236Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:156": {
+      "kind": "problem",
+      "id": "156",
+      "title": "Implement SwiGLU activation function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/156",
+      "path": "problems/0156-implement-swiglu-activation-function",
+      "first_solved_at": "2026-09-22T00:34:36.474Z",
+      "last_pushed_at": "2026-09-22T00:34:36.474Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-09-22T02:48:26.027Z",
+      "last_pushed_at": "2026-09-22T02:48:26.027Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:418": {
+      "kind": "problem",
+      "id": "418",
+      "title": "Estimate KV Cache Size from Model Config",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/418",
+      "path": "problems/0418-estimate-kv-cache-size-from-model-config",
+      "first_solved_at": "2026-09-22T15:24:15.150Z",
+      "last_pushed_at": "2026-09-22T15:24:15.150Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:372": {
+      "kind": "problem",
+      "id": "372",
+      "title": "Implement RMSNorm (Root Mean Square Layer Normalization)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/372",
+      "path": "problems/0372-implement-rmsnorm-root-mean-square-layer-normalization",
+      "first_solved_at": "2026-09-22T15:54:25.923Z",
+      "last_pushed_at": "2026-09-22T15:54:25.923Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:126": {
+      "kind": "problem",
+      "id": "126",
+      "title": "Implement Group Normalization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/126",
+      "path": "problems/0126-implement-group-normalization",
+      "first_solved_at": "2026-09-22T17:06:09.082Z",
+      "last_pushed_at": "2026-09-22T17:06:09.082Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:143": {
+      "kind": "problem",
+      "id": "143",
+      "title": "Instance Normalization (IN) Implementation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/143",
+      "path": "problems/0143-instance-normalization-in-implementation",
+      "first_solved_at": "2026-09-22T17:13:10.515Z",
+      "last_pushed_at": "2026-09-22T17:13:10.515Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
