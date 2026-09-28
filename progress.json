@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T17:54:34.599Z",
+  "generated_at": "2026-09-28T19:40:56.027Z",
   "items": {
     "problem:883": {
       "kind": "problem",
@@ -700,6 +700,19 @@
       "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
       "first_solved_at": "2026-09-28T17:54:34.084Z",
       "last_pushed_at": "2026-09-28T17:54:34.084Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:265": {
+      "kind": "problem",
+      "id": "265",
+      "title": "Implement 2D Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/265",
+      "path": "problems/0265-implement-2d-average-pooling",
+      "first_solved_at": "2026-09-28T19:40:55.314Z",
+      "last_pushed_at": "2026-09-28T19:40:55.314Z",
       "language": "python",
       "lines": 23
     }
