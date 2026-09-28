@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 43 problems · 0 labs · 0 math
+**44** solved · 44 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-07-28 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-09-22 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-09-22 | [solution](problems/0156-implement-swiglu-activation-function) |
+| [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-28 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-21 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-07-26 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-28 | [solution](problems/0022-sigmoid-activation-function-understanding) |
