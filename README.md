@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**55** solved · 55 problems · 0 labs · 0 math
+**56** solved · 56 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-09-28 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-07-25 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Estimate KV-Cache Memory for MHA vs Linear Attention](https://www.deep-ml.com/problems/1019) | easy | 2026-08-19 | [solution](problems/1019-estimate-kv-cache-memory-for-mha-vs-linear-attention) |
+| [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-30 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-09-28 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Implement a Linear Layer Forward Pass in Tinygrad](https://www.deep-ml.com/problems/892) | easy | 2026-07-22 | [solution](problems/0892-implement-a-linear-layer-forward-pass-in-tinygrad) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-07-22 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
