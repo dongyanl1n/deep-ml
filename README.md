@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 63 problems · 0 labs · 0 math
+**64** solved · 64 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-07-28 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-10-02 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-09-28 | [solution](problems/0114-implement-global-average-pooling) |
+| [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-02 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-28 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-09-30 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-09-22 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
