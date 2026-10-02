@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**61** solved · 61 problems · 0 labs · 0 math
+**62** solved · 62 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-07-26 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-09-22 | [solution](problems/0126-implement-group-normalization) |
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-08-09 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
+| [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-02 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-07-30 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-08-09 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-22 | [solution](problems/0107-implement-masked-self-attention) |
