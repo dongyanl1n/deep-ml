@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 66 problems · 0 labs · 0 math
+**67** solved · 67 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-09-30 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2026-09-28 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-09-28 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
+| [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-10-03 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-07-25 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Estimate KV-Cache Memory for MHA vs Linear Attention](https://www.deep-ml.com/problems/1019) | easy | 2026-08-19 | [solution](problems/1019-estimate-kv-cache-memory-for-mha-vs-linear-attention) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-30 | [solution](problems/0016-feature-scaling-implementation) |
