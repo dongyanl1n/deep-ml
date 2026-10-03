@@ -1,10 +1,15 @@
-
 import numpy as np
 
 def rmse(y_true, y_pred):
-	# Write your code here
-	assert len(y_pred) == len(y_true), "mismatched array shape!"
-	assert type(y_pred) == type(y_true) == np.ndarray, "invalid input types"
-	assert len(y_pred) != 0  and len(y_true) != 0
-	rmse_res = np.sqrt(np.mean((y_true - y_pred)**2))
-	return round(rmse_res,3)
+    try:
+        y_true = np.asarray(y_true, dtype=float)
+        y_pred = np.asarray(y_pred, dtype=float)
+    except (TypeError, ValueError):
+        raise TypeError("inputs must be array-like and numeric")
+
+    if y_true.shape != y_pred.shape:
+        raise ValueError(f"shape mismatch: {y_true.shape} vs {y_pred.shape}")
+    if y_true.size == 0:
+        raise ValueError("inputs must be non-empty")
+
+    return round(float(np.sqrt(np.mean((y_true - y_pred) ** 2))), 3)
