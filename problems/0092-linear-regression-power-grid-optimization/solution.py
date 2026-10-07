@@ -11,7 +11,7 @@ def power_grid_forecast(consumption_data):
 	# 2) Perform linear regression on the detrended data.
 	# assyme detrended_data = m * days + b
 	# m = (detrended_data[1] - detrended_data[0]) / 1
-	# b = detrended_data[1] - m * days[1]
+	# b = detrended_data[1] - m * days[1]  # this way it only uses 2 data points; need to use all data points!
 	vector = np.polyfit(days, detrended_data, deg=1)
 	m, b = vector[0], vector[1]
 	# 3) Predict day 15's base consumption.
@@ -20,7 +20,7 @@ def power_grid_forecast(consumption_data):
 	day_15_fluc = 10 * np.sin(2*PI*15/10)
 	day_15_data = day_15_base + day_15_fluc
 	# 5) Round, then add a 5% safety margin (rounded up).
-	day_15_data = int(1.05*day_15_data)+1
+	day_15_data = math.ceil(1.05*day_15_data)
 	# 6) Return the final integer.
 	return day_15_data
 	
