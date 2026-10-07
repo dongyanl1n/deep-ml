@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**74** solved · 74 problems · 0 labs · 0 math
+**75** solved · 75 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-09-22 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-08-01 | [solution](problems/0017-k-means-clustering) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-08-09 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
+| [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-07 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-07-29 | [solution](problems/0190-overlapping-max-pooling) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-08-06 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-08-07 | [solution](problems/0381-rotary-positional-embeddings-rope) |
