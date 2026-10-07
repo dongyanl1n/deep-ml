@@ -14,7 +14,7 @@ def power_grid_forecast(consumption_data):
 	# m = (detrended_data[1] - detrended_data[0]) / 1
 	# b = detrended_data[1] - m * days[1]  # this way it only uses 2 data points; need to use all data points!
 
-	$
+	# another way: np.polyfit
 	# vector = np.polyfit(days, detrended_data, deg=1)
 	# m, b = vector[0], vector[1]
 	
