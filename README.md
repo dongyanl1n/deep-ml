@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**73** solved · 73 problems · 0 labs · 0 math
+**74** solved · 74 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-07-26 | [solution](problems/0087-adam-optimizer) |
 | [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-08-21 | [solution](problems/0234-block-wise-fp8-quantization) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-08-06 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
+| [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-10-07 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-09-22 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-08-03 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-08-25 | [solution](problems/0197-gradient-clipping-by-global-norm) |
